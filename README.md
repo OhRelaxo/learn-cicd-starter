@@ -1,4 +1,4 @@
-https://github.com/OhRelaxo/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
+![github actions badge](https://github.com/OhRelaxo/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
