@@ -35,4 +35,7 @@ jobs:
           go-version: "1.25.1"
 
       - name: run gofmt
-        run: test -z "$(gofmt ./...)" && echo $?
+        run: test -z "$(gofmt ./...)"
+      
+      - name: check formatting
+        run: echo $?
