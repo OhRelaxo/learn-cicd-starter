@@ -36,6 +36,3 @@ jobs:
 
       - name: run go fmt
         run: test -z "$(go fmt ./...)"
-      
-      - name: check formatting
-        run: echo $?
